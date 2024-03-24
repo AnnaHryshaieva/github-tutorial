@@ -4,21 +4,15 @@
 
 Introducing CamperRentalUA - Our project is a convenient and easy-to-use web service for renting camper vans in Ukraine, which allows you to travel and discover new places without restrictions, without having your own car.
 
-**So, let's take care of your health together in our app** ❤️
+**So, hit on the open road with our app and find your perfect campervan for an unforgettable trip** ❤️
 
 ## 🔧 Main features:
 
-1. Authentication and login page for **secure access**.
-2. **Profile page** to input user data including birth date, current and target
-   weight, blood type, and level of activity.
-3. **Products page** categorizing items for easy addition to your daily, with
-   calorie counts per gram and recommendations based on user blood type.
-4. **Exercises page** offering a selection of workouts targeting different
-   muscle groups, complete with timers for tracking performance and the option
-   to add exercises to your dairy.
-5. **Dairy** to store information about consumed products and completed
-   exercises for each chosen day, along with details on recommended and consumed
-   calories and workout times.
+1. **A wide range of campers of different types and sizes:** The app offers a wide range of campervans of different types to suit different needs and requirements of users.
+2. **Online campervan booking:** The user can easily and quickly book a campervan using the app by specifying dates and other necessary parameters.
+3. **Simple user interface:** The app has a clear and user-friendly interface that makes it easy to use all its features.
+4. **Ability to view reviews and rating of each camper:** Users can view the reviews and ratings of each camper to make an informed choice when renting.
+5. **Informative page with a description of each camper:** Each camper has its own page with a detailed description, photos, and features to help users make the right choice.
 
 ## 👨‍💻 Developer:
 
