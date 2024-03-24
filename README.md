@@ -2,9 +2,7 @@
 
 # CamperRentalUA <img align="center" width="32" height="32" src="./public/favicon.ico">
 
-Introducing PowerPulse - your personal fitness companion app designed to _help
-you take control of your body shape_ and _achieve your desired level of
-activity_.
+Introducing CamperRentalUA - Our project is a convenient and easy-to-use web service for renting camper vans in Ukraine, which allows you to travel and discover new places without restrictions, without having your own car..
 
 **So, let's take care of your health together in our app** ❤️
 
