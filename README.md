@@ -17,7 +17,7 @@ Introducing CamperRentalUA - Our project is a convenient and easy-to-use web ser
 ## 👨‍💻 Developer:
 
 [![Dmytro Korolik](https://img.shields.io/badge/git_hub-262625?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KorolikD)
-**Dmytro Korolik** - _Project Team Lead, FullStack Developer_
+**Dmytro Korolik** - FullStack Developer_
 
 ## 🛠 Tech Stack
 
